@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Gabriel Theodoro 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/theodoro2115/Gabriel-Theodoro/blob/main/assets/eu.jpeg" alt="Foto do Gabriel" width="200"/>
+  <img src="https://github.com/theodoro2115/theodoro2115/blob/main/assets/eu.jpeg" alt="Foto do Gabriel" width="200"/>
 </p>
 
 ## 👨‍💻 Sobre mim
