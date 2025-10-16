@@ -6,7 +6,23 @@
 
 ## 👨‍💻 Sobre mim
 
-Olá sou Gabriel Theodoro desenvolvedor de sistemas fiz o meu curso técnico na escola Senai, gosto de desenvolver sites e aplicações web, comecei a ter esse interesse por programação através da escola que proporcionou a oportunidade de me apresentar o curso de desenvolvimento através disso comecei a me interessar pela IA(Inteligencia Artificial) e desenvolvimento web, procuro sempre aprimorar meus conhecimentos seja em Back-End ou Front-End, minha preferência na programação é Back-End pois acabei me identificando, costumo usar o Python, JavaScript e o Flask.
+Olá, eu sou o Gabriel Theodoro! 👋
+
+Desenvolvedor Full Stack em formação com base técnica sólida pelo SENAI. Minha paixão por programação surgiu na escola e desde então evoluiu para um grande interesse em Inteligência Artificial e Desenvolvimento Web.
+
+Atualmente, me dedico a criar sites e aplicações web funcionais e criativas, aplicando a metodologia Kanban para otimizar meu fluxo de desenvolvimento. Embora tenha experiência tanto em Front-End quanto em Back-End, minha preferência e maior identificação estão no Back-End, onde trabalho com Python, JavaScript e Flask para construir sistemas robustos e eficientes.
+
+🚀 Tecnologias & Habilidades:
+
+Front-end: HTML, CSS, JavaScript, React, Bootstrap
+
+Back-end: Node.js, PHP, Python, Flask, Next.js
+
+Banco de Dados: MySQL, Firebase
+
+Metodologias: Kanban para gestão de projetos
+
+Ferramentas: Socket.IO para aplicações em tempo real
 ---
 
 ## 🛠️ Tecnologias e Ferramentas que uso
