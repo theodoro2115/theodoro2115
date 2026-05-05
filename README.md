@@ -8,7 +8,7 @@
 
 Olá, eu sou o Gabriel Theodoro! 👋
 
-Desenvolvedor Full Stack em formação com base técnica sólida pelo SENAI. Minha paixão por programação surgiu na escola e desde então evoluiu para um grande interesse em Inteligência Artificial e Desenvolvimento Web.
+Desenvolvedor Full Stack em formação com base técnica sólida pelo SENAI e atualmente cursando Sistemas de Informação pela Uninove. Minha paixão por programação surgiu na escola e desde então evoluiu para um grande interesse em Inteligência Artificial e Desenvolvimento Web.
 
 Atualmente, me dedico a criar sites e aplicações web funcionais e criativas, aplicando a metodologia Kanban para otimizar meu fluxo de desenvolvimento. Embora tenha experiência tanto em Front-End quanto em Back-End, minha preferência e maior identificação estão no Back-End, onde trabalho com Python, JavaScript e Flask para construir sistemas robustos e eficientes.
 
