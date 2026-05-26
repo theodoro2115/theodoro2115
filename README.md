@@ -146,7 +146,6 @@ width="350"/>
 # 💻 Código da Minha Jornada
 
 class GabrielTheodoro:
-
     def __init__(self):
         self.name = "Gabriel Theodoro"
         self.role = "Full Stack Developer"
@@ -157,8 +156,7 @@ class GabrielTheodoro:
             "Database",
             "Web Applications"
         ]
-
-    def future(self):
+ def future(self):
         return "Building futuristic systems with AI 🚀"
 
 ---
