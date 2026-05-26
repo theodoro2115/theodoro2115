@@ -119,47 +119,33 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=theodoro2115
 
 ---
 
-# 🌌 IA & Desenvolvimento
+🌌 IA & Desenvolvimento: Construindo o Futuro
 
-Minha visão vai além da programação tradicional.
-
-Busco integrar Inteligência Artificial, automação e sistemas inteligentes em aplicações modernas, explorando novas tecnologias capazes de transformar experiências digitais.
-
-Estou constantemente estudando:
-- Inteligência Artificial
-- Machine Learning
-- Arquitetura Back-End
-- Sistemas escaláveis
-- Desenvolvimento em tempo real
-- Automação de processos
-- APIs inteligentes
+Minha visão vai além do código; busco integrar a Inteligência Artificial em soluções que redefinem a interação humana com a tecnologia. Acredito no potencial da IA para otimizar processos, personalizar experiências e criar sistemas autônomos que aprendem e evoluem. Estou sempre explorando novas arquiteturas de IA, algoritmos de aprendizado de máquina e frameworks para construir a próxima geração de aplicações inteligentes.
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V6MXk1b3NkOG1qdm5kNnM4aGx3bXU4NnN0YTB4aWRlZDVwM2R2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif"
-width="350"/>
-
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3V6MXk1b3NkOG1qdm5kNnM4aGx3bXU4NnN0YTB4aWRlZDVwM2R2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif" width="350"/>
 </div>
 
----
+Python
 
-# 💻 Código da Minha Jornada
 
 class GabrielTheodoro:
-    def __init__(self):
+
+    def __init__(self  ):
         self.name = "Gabriel Theodoro"
         self.role = "Full Stack Developer"
-        self.languages = ["Python", "JavaScript", "PHP"]
-        self.focus = [
-            "Back-End",
-            "Artificial Intelligence",
-            "Database",
-            "Web Applications"
-        ]
- def future(self):
+        self.language = ["Python", "JavaScript", "PHP"]
+        self.focus = ["Back-End", "IA", "Web Apps"]
+
+    def future(self):
         return "Building futuristic systems with AI 🚀"
 
+
+
+
 ---
+
 
 # 🌐 Contato & Redes
 
