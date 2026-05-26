@@ -26,7 +26,7 @@ box-shadow:
 
 ---
 
-# 🤖 Sobre Mim Profissional
+# 🤖 Sobre Mim 
 
 Olá! Sou Gabriel Theodoro, um desenvolvedor Full Stack apaixonado por criar sistemas modernos, inteligentes e escaláveis.
 
