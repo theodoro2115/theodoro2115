@@ -3,7 +3,7 @@ md
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Back-End+Specialist;AI+Desenvolvimento-de-Sistemas;Python+%7C+Flask+%7C+JavaScript;Building+the+Future+with+Code"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Developer;Back-End+Specialist;Progração;Python+%7C+Flask+%7C+JavaScript;Building+the+Future+with+Code"/>
 </div>
 
 ---
